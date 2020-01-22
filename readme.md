@@ -1,3 +1,5 @@
+<img src="/img.jpg" width="70%" height="30%" title="화면" alt="BookManager"></img>
+
 도서 관리 웹 어플리케이션
 =============
 
@@ -11,4 +13,5 @@ Kakao API 를 이용하여 검색 후 등록가능
 Kakao API   
 PHP 7    
 jquery    
+Bootstrap 4
 Codeigniter 3.1.11    
