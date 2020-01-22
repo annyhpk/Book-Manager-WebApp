@@ -8,7 +8,7 @@ Kakao API 를 이용하여 검색 후 등록가능
 사용 기술
 -------------
 
-Kakao API
-PHP 7
-jquery
-Codeigniter 3.1.11
+Kakao API #
+PHP 7 #
+jquery #
+Codeigniter 3.1.11 #
