@@ -1,4 +1,4 @@
-<img src="/img.jpg" width="70%" height="30%" title="화면" alt="BookManager"></img>
+<img src="/img.jpg" width="100%" height="50%" title="화면" alt="BookManager"></img>
 
 도서 관리 웹 어플리케이션
 =============
