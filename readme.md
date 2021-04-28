@@ -1,6 +1,6 @@
 <img src="/img.jpg" width="100%" height="50%" title="화면" alt="BookManager"></img>
 
-### DEMO - https://github.com/annyhpk/Book-Manager-React
+### DEMO (react version) - https://github.com/annyhpk/Book-Manager-React
 
 도서 관리 웹 어플리케이션
 =============
